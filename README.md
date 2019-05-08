@@ -13,8 +13,8 @@ The file is composed by 46 columns as follows:
 5) tfidfC_binary__score: the score achieved applying the TF-IDFC binary method,
 6) IG__score: the score achieved applying the IG statistical measure,
 7) PMI__score: the score achieved applying the PMI statistical measure,
-8-25) LDAk: the k LDA features (k=17) used in the Supervised Machine Learning algorithms,
-26-43) BTMk: the k BTM features (k=17) used in the Supervised Machine Learning algorithms,
-44) tfidfC_unary__score: the score achieved applying the TF-IDFC unary method,
-45) svmLinear_prob__1: the proabability of linar SVM classification (probability to belong to the class 1) with C value set to 0.001),
-46) Manual label (Ground Truth): the manualy labeled class which are 1 for the alloy steel tweet and 0 otherwise.
+8) LDAk (columns 8-25): the k LDA features (k=17) used in the Supervised Machine Learning algorithms,
+9) BTMk (columns 26-43): the k BTM features (k=17) used in the Supervised Machine Learning algorithms,
+10) tfidfC_unary__score: the score achieved applying the TF-IDFC unary method,
+11) svmLinear_prob__1: the proabability of linar SVM classification (probability to belong to the class 1) with C value set to 0.001),
+12) Manual label (Ground Truth): the manualy labeled class which are 1 for the alloy steel tweet and 0 otherwise.
