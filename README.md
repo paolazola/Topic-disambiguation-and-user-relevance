@@ -1,9 +1,9 @@
 # Topic-disambiguation-and-user-relevance
-This repository holds three csv files used for the TD-TUR (topic disambiguation-topic user relevance) task. 
+This repository holds three csv files used for the TFD-FUR (Twitter Financial disambiguation-Financial User Relevance) task. 
 
 The file named steel_news_titles.csv contains the downloaded titles from steel authorative sources (Kallanish Commodities and SteelOrbis) with the pubblication date while the file generic_news_titles.csv holds the generic titles from Reuters, The New York Times and a sample of 44,182 titles from the dataset available at https://www.kaggle.com/therohk/million-headlines/home. 
 
-The third file, called sample_3000_labeled_tweets.csv holds 3,000 labeled tweets randomly selected from a dataset of 533,759 tweets downloaded in the period between March 2017 and October 2018 using the keywords: steel price, steel production, steel industry. The dataset is used as further example for the topic disambiguation (TD) task in which the target is to identify tweets strictly related to the alloy steel domain (manually labeled as 1) discarding the out-of-topic ones (manually labeled as 0). 
+The third file, called sample_3000_labeled_tweets.csv holds 3,000 labeled tweets randomly selected from a dataset of 533,759 tweets downloaded in the period between March 2017 and October 2018 using the keywords: steel price, steel production, steel industry. The dataset is used as further example for the Twitter Financial disambiguation (TFD) task in which the target is to identify tweets strictly related to the alloy steel domain (manually labeled as 1) discarding the out-of-topic ones (manually labeled as 0). 
 
 The file is composed by 46 columns as follows:
 1) id: it is the ID number of each tweet,
