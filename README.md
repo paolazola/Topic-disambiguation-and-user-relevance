@@ -1,4 +1,4 @@
-# Topic-disambiguation-and-user-relevance
+# Twitter Financial disambiguation-Financial User Relevance
 This repository holds three csv files used for the TFD-FUR (Twitter Financial disambiguation-Financial User Relevance) task. 
 
 The file named steel_news_titles.csv contains the downloaded titles from steel authorative sources (Kallanish Commodities and SteelOrbis) with the pubblication date while the file generic_news_titles.csv holds the generic titles from Reuters, The New York Times and a sample of 44,182 titles from the dataset available at https://www.kaggle.com/therohk/million-headlines/home. 
